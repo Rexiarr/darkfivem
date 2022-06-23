@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Jun 2022 23:46:20 at https://eulencheats.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://eulencheats.com -O1 "C:\Benim Web Sitem\eulen" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:46:37	Warning: 	Moved Permanently for eulencheats.com/robots.txt
+23:46:37	Warning: 	Redirected link is identical because of 'URL Hack' option: eulencheats.com/robots.txt and https://eulencheats.com/robots.txt
+23:46:37	Warning: 	Warning moved treated for eulencheats.com/robots.txt (real one is https://eulencheats.com/robots.txt)
+23:46:37	Warning: 	Moved Permanently for eulencheats.com/Rust/
+23:46:37	Warning: 	Redirected link is identical because of 'URL Hack' option: eulencheats.com/Rust/ and https://eulencheats.com/Rust/
+23:46:37	Warning: 	File has moved from eulencheats.com/Rust/ to https://eulencheats.com/Rust/
+23:46:37	Warning: 	Moved Permanently for eulencheats.com/Polygon/
+23:46:37	Warning: 	Redirected link is identical because of 'URL Hack' option: eulencheats.com/Polygon/ and https://eulencheats.com/Polygon/
+23:46:37	Warning: 	File has moved from eulencheats.com/Polygon/ to https://eulencheats.com/Polygon/
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 83 links scanned, 79 files written (6785141 bytes overall) [4987922 bytes received at 166264 bytes/sec], 2931960 bytes transferred using HTTP compression in 60 files, ratio 36%, 6.0 requests per connection
+(No errors, 9 warnings, 0 messages)
